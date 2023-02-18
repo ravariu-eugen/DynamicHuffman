@@ -1,0 +1,7 @@
+    Acest program utilizeaza algoritmul Vitter pentru a implementa arbori Huffman dinamici
+
+Utilizare:
+    HuffmanCoder E <inputFile> <outputFile>
+        - encodeaza continutul primului fisier in al doilea fisier
+    HuffmanCoder D <inputFile> <outputFile>
+        - decodeaza continutul primului fisier in al doilea fisier
